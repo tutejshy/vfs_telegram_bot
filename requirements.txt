@@ -1,0 +1,13 @@
+pydantic
+python-dotenv
+
+requests
+cloudscraper
+cfscrape
+sqlalchemy
+
+python-telegram-bot
+apscheduler
+pytz
+
+dependency-injector
